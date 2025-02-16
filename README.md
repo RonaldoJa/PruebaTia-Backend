@@ -1,4 +1,4 @@
-# JAVA SPRING 2.6.6 + MySQL 9.1.0
+# JAVA SPRING 2.6.6 + MySQL 9.1.0 + Java 17
 
 El proyecto fue desarrollado en Java Spring y MYSQL
 
