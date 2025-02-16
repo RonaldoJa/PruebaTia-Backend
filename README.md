@@ -1,6 +1,8 @@
-# JAVA SPRING 2.6.6 + MySQL
+# JAVA SPRING 2.6.6 + MySQL 9.1.0
 
 El proyecto fue desarrollado en Java Spring y MYSQL
+
+Por favor ejectuar el proyecto en el siguiente editor de codigo: Intellij Idea
 
 # Ejecucion del proyecto
 
@@ -11,4 +13,5 @@ El proyecto fue desarrollado en Java Spring y MYSQL
   3. Para el atributo spring.datasource.password = (Contraseña de la base de datos)
 
 - Opcional, puede ejectuar el script adjunto que permite crear la base de datos con las tablas y registros. Importante la version MySQL debe 8.0 o superior
+  Script: https://github.com/RonaldoJa/LocalTia-DB
   
